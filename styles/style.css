@@ -44,8 +44,11 @@ a {
 }
 
 #welcome-section {
+  display: flex;
   height: 100vh;
   overflow: auto;
+  justify-content: center;
+  align-items: center;
   background-color: #dcdcdc;
 }
 #welcome-section h1 {
