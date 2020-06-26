@@ -21,6 +21,10 @@ a {
   color: skyblue;
 }
 
+h1 {
+  font-size: 38px;
+}
+
 #navbar {
   display: flex;
   flex-direction: row;
@@ -49,7 +53,7 @@ a {
   overflow: auto;
   justify-content: center;
   align-items: center;
-  background-color: #dcdcdc;
+  background-image: linear-gradient(to bottom right, skyblue, silver);
 }
 #welcome-section h1 {
   padding: 10vh 0 0 10px;
@@ -67,7 +71,7 @@ a {
   flex-direction: column;
   background-color: black;
   height: 35vh;
-  width: 45vh;
+  width: 250px;
 }
 
 .project-header {
@@ -76,5 +80,14 @@ a {
   align-items: center;
   background-color: #555555;
   top: 0px;
-  height: 20%;
+  height: 25%;
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 30px;
+  background-color: lightgray;
 }
