@@ -18,7 +18,7 @@
 
 a {
   text-decoration: none;
-  color: lightskyblue;
+  color: skyblue;
 }
 
 #navbar {
@@ -30,12 +30,12 @@ a {
   top: 0px;
   width: 100%;
   height: 10vh;
-  background-color: #555555;
+  background-color: #2244cc;
 }
 
 .nav-items {
   display: flex;
-  background-color: #777777;
+  background-color: gray;
   height: 85%;
   width: 10%;
   margin: 5px;
