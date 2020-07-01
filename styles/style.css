@@ -1,9 +1,9 @@
-body, p, h1, h2, h3, h4, h5, h6 {
+* {
   padding: 0;
   margin: 0;
 }
 
-* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: inherit; }
 
 @media only screen and (min-width: 980px) {
   .element {
@@ -23,13 +23,14 @@ body, p, h1, h2, h3, h4, h5, h6 {
   }
 }
 
-a {
-  text-decoration: none;
-  color: skyblue;
+h1 {
+  font-size: 6rem;
+  color: #EBA691;
 }
 
-h1 {
-  font-size: 38px;
+h2 {
+  font-size: 4.5rem;
+  color: #EBCE7A;
 }
 
 h3 {
@@ -37,29 +38,52 @@ h3 {
   color: white;
 }
 
+p {
+  font-size: 1rem;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: #87ceeb;
+}
+
 #navbar {
   display: flex;
-  flex-direction: row;
+  justify-content: flex-end;
   align-items: center;
   position: fixed;
-  top: 0px;
+  top: 0;
+  left: 0;
   width: 100%;
-  height: 50px;
   background-color: #333333;
 }
 
-.nav-items {
+.nav-list {
   display: flex;
+  margin-right: 2rem;
   background-color: gray;
-  height: 85%;
-  width: 150px;
-  margin: 5px;
-  justify-content: center;
-  align-items: center;
+}
+
+@media (max-width: 28.75em) {
+  #navbar {
+    justify-content: center;
+  }
+
+  .nav-list {
+    margin: 0 1rem;
+  }
+}
+
+.nav-list a {
+  display: block;
+  font-size: 2.2rem;
+  padding: 1.5rem 2rem;
 }
 
 #welcome-section {
   display: flex;
+  flex-direction: column;
   height: 100vh;
   overflow: auto;
   justify-content: center;
