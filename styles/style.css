@@ -40,13 +40,18 @@ h2 {
 }
 
 h3 {
-  padding: 10px;
-  color: white;
+  font-size: 3.75rem;
+  color: #D5D5D5;
+}
+
+h4 {
+  font-size: 2.5rem;
+  color: #D5D5D5;
 }
 
 p {
   font-size: 1rem;
-  color: white;
+  color: #D5D5D5;
 }
 
 a {
@@ -102,17 +107,42 @@ img {
 /* Project section */
 
 #projects {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  padding: 10px;
+  background-color: #55AD7A;
+  text-align: center;
+  padding: 10rem 2rem;
+}
+
+#project-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 4rem;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  margin-bottom: 6rem;
+}
+@media (max-width: 30.625em) {
+  .projects {
+    padding: 6rem 1rem;
+  }
+
+  .projects-section {
+    grid-template-columns: 1fr;
+  }
+}
+
+.project-section-header {
+  max-width: 550px;
+  margin: 0 auto 6rem auto;
+  border-top: 0.2rem solid;
+  border-bottom: 0.2rem solid;
 }
 
 .project-tile {
   display: flex;
   flex-direction: column;
-  background-color: black;
-  height: 35vh;
+  background-color: #11587F;
+  height: 25vh;
   width: 250px;
 }
 
@@ -120,9 +150,15 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #555555;
+  background-color: #000000;
   top: 0px;
   height: 25%;
+}
+
+/* contact */
+
+#contact {
+  height: 50vh;
 }
 
 /* Footer */
