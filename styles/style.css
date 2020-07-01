@@ -23,14 +23,20 @@
   }
 }
 
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+
 h1 {
   font-size: 6rem;
-  color: #EBA691;
+  color: #D5D5D5;
 }
 
 h2 {
   font-size: 4.5rem;
-  color: #EBCE7A;
+  color: #55AD7A;
 }
 
 h3 {
@@ -87,7 +93,7 @@ img {
   overflow: auto;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(to bottom right, skyblue, silver);
+  background-image: linear-gradient(to bottom right, #11587F, #4395B4);
 }
 #welcome-section h1 {
   padding: 10vh 0 0 10px;
