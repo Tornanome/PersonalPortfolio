@@ -1,6 +1,7 @@
 * {
   padding: 0;
   margin: 0;
+  font-family: 'Roboto', sans-serif;
 }
 
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: inherit; }
@@ -31,26 +32,36 @@ body {
 
 h1 {
   font-size: 6rem;
-  color: #D5D5D5;
+  font-weight: 700;
+  color: #000000;
 }
 
 h2 {
   font-size: 4.5rem;
+  font-weight: 500;
   color: #55AD7A;
 }
 
 h3 {
-  font-size: 3.75rem;
+  font-size: 3.5rem;
+  font-weight: 500;
   color: #D5D5D5;
 }
 
 h4 {
-  font-size: 2.5rem;
+  font-size: 2rem;
+  font-weight: 500;
   color: #D5D5D5;
+}
+
+h5 {
+  font-size: .8rem;
+  font-weight: 300;
 }
 
 p {
   font-size: 1rem;
+  font-weight: 400;
   color: #D5D5D5;
 }
 
@@ -80,13 +91,18 @@ img {
 .nav-list {
   display: flex;
   margin-right: 2rem;
+  background-color: #333333;
+}
+.nav-list:hover {
+  margin-right: 2rem;
   background-color: gray;
 }
 
 .nav-list a {
   display: block;
-  font-size: 2.2rem;
+  font-size: 1.8rem;
   padding: 1.5rem 2rem;
+  color: #D5D5D5;
 }
 
 /* Welcome section */
@@ -109,13 +125,13 @@ img {
 #projects {
   background-color: #55AD7A;
   text-align: center;
-  padding: 10rem 2rem;
+  padding: 6rem 2rem;
 }
 
 #project-section {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  grid-gap: 4rem;
+  grid-gap: 3rem;
   width: 100%;
   max-width: 1280px;
   margin: 0 auto;
@@ -142,8 +158,8 @@ img {
   display: flex;
   flex-direction: column;
   background-color: #11587F;
-  height: 25vh;
-  width: 250px;
+  height: 450px;
+  width: 400px;
 }
 
 .project-header {
@@ -152,13 +168,33 @@ img {
   align-items: center;
   background-color: #000000;
   top: 0px;
-  height: 25%;
+  height: 75px;
 }
 
 /* contact */
 
 #contact {
-  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  background-image: linear-gradient(to bottom right, #11587F, #4395B4);
+}
+
+#contact-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-link {
+  background-color: #55AD7A;
+  margin: 20px;
+  padding: 35px 45px;
+}
+
+.social-link a {
+  color: #D5D5D5;
 }
 
 /* Footer */
