@@ -171,6 +171,13 @@ img {
   height: 75px;
 }
 
+/* Star Wars Section */
+
+#starWarsSection {
+  height: 1000px;
+  background-color: #333333;
+}
+
 /* contact */
 
 #contact {
