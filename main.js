@@ -3,10 +3,6 @@ import { people } from './people.js';
 
 console.log(films)
 
-films.map(films => {
-    console.log(film.title)
-})
-
 function createNode(element) {
     return document.createElement(element);
 }
@@ -15,10 +11,23 @@ function append(parent, el){
     return parent.appendChild(el);
 }
 
-const swurl = films;
+const url = 'https://swapi.dev/api/';
+const ul = document.getElementById('starWars');
 
-fetch(swurl)
-    .then(resp => resp.jason())
+fetch(url)
+    .then(resp => resp.json())
     .then(data => {
-        console.log(data)
+        film = data.results;
+        console.log(films)
+
+        films.map(films => {
+            console.log(films.cell)
+            let li = createNode('li'),
+                span = createNode('span');
+
+            span.innerHTML = `${films.episode_id}`;
+            
+            append(li, span)
+        })
+       
     })
