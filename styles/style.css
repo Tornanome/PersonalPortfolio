@@ -33,12 +33,14 @@ body {
 h1 {
   font-size: 6rem;
   font-weight: 700;
+  text-align: center;
   color: #000000;
 }
 
 h2 {
   font-size: 4.5rem;
   font-weight: 500;
+  text-align: center;
   color: #55AD7A;
 }
 
@@ -174,8 +176,8 @@ img {
 /* Star Wars Section */
 
 #starWarsSection {
-  height: 1000px;
-  background-color: #333333;
+  height: 800px;
+  background-color: #D5D5D5;
 }
 
 /* contact */

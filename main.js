@@ -1,7 +1,8 @@
 import { films } from './films.js';
 import { people } from './people.js';
 
-console.log(films)
+var cards = document. querySelectorAll('.card');
+
 
 function createNode(element) {
     return document.createElement(element);
