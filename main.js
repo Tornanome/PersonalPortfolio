@@ -3,17 +3,13 @@ import { people } from './people.js';
 
 var cards = document. querySelectorAll('.card');
 
+cards.forEach(card => {
+    card.addEventListener( 'click', function() {
+        card.classList.toggle('is-flipped');
+    });
+})
 
-function createNode(element) {
-    return document.createElement(element);
-}
-
-function append(parent, el){
-    return parent.appendChild(el);
-}
-
-const url = 'https://swapi.dev/api/';
-const ul = document.getElementById('starWars');
+const container = document.querySelector('#container')
 
 const getPeople = () => {
     fetch('http://swapi.dev/api/people/')
@@ -22,13 +18,13 @@ const getPeople = () => {
 
             const people = data.results;
 
-            const redefinePerson = (person, idx) => {
+            const redfinePerson = (person, idx) => {
                 return {
                     name: person.name,
                     dob: person.birth_year,
                     gender: person.gender,
                     height: person.height,
-                    id: idx
+                    id: idx + 1
                 }
             }
         
@@ -37,14 +33,17 @@ const getPeople = () => {
             console.log(mySWpeopleArray)
 
             const peopleHTML = mySWpeopleArray.map(person => {
-                return
+                return `
                 <div class="scene">
                     <div class="card">
-                        <div class="card_face card_face--front">${person.name}</div>
-                        <div class="card_face card_face--back"><div><img src='/swImg/${person.id}.jpg'/></div></div>
+                    <div class="card_face card_face--front">${person.name}</div>
+                    <div class="card_face card_face--back"><div><img src='/swImg/${person.id}.jpg'/></div></div>
                     </div>
                 </div>
-            })
+                `
+            }).join('');
+           
+            container.innerHTML = peopleHTML;
         })
 }
 
