@@ -1,4 +1,4 @@
-* {
+body, p, h1, h2, h3, h4, h5, h6 {
     padding: 0;
     margin: 0;
     font-family: 'Roboto', sans-serif;
@@ -6,27 +6,94 @@
   
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: inherit; }
 
-img {
-    width: 100%;
+@media only screen and (min-width: 980px) {
+    .element {
+        all: none;
+    }
 }
+
+@media screen {
+    body {
+        width: 100%;
+    }
+}
+
+@media print {
+    body {
+        width: 100%;
+    }
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 400;
+  }
+  
+h1 {
+font-size: 6rem;
+font-weight: 700;
+text-align: center;
+color: #000000;
+}
+
+h2 {
+font-size: 4.5rem;
+font-weight: 500;
+text-align: center;
+color: #55AD7A;
+}
+
+h3 {
+font-size: 3.5rem;
+font-weight: 500;
+color: #000000;
+}
+
+h4 {
+font-size: 2rem;
+font-weight: 500;
+color: #000000;
+}
+
+h5 {
+font-size: .8rem;
+font-weight: 300;
+}
+
+p {
+font-size: 1rem;
+font-weight: 400;
+color: #000000;
+}
+
+a {
+text-decoration: none;
+color: #87ceeb;
+}
+
+img {
+display: block;
+width: 100%;
+}
+  
+
+.the_cards {
+
+}
+
+.container1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
 
 .container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  grid-gap: 3rem;
-  width: 100%;
-  max-width: 1280px;
-  margin: 0 auto;
-  margin-bottom: 6rem;
-}
-@media (max-width: 30.625em) {
-  .container {
-    padding: 6rem 1rem;
-  }
-
-  .container {
-    grid-template-columns: 1fr;
-  }
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .scene {
@@ -34,7 +101,7 @@ img {
     height: 260px;
     border: 1px solid #CCC;
     margin: 40px 0;
-    perspective: 600px;
+
 }
   
 .card {
@@ -51,10 +118,12 @@ img {
 }
   
 .card__face {
+    display: flex;
     position: absolute;
     width: 100%;
     height: 100%;
-    line-height: 260px;
+    justify-content: center;
+    align-items: center;
     color: white;
     text-align: center;
     font-weight: bold;

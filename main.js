@@ -19,8 +19,6 @@ const getPeople = () => {
         
             const mySWpeopleArray = people.map(redfinePerson)
 
-            console.log(mySWpeopleArray)
-
             const peopleHTML = mySWpeopleArray.map(person => {
                     return `
                     <div class="scene">
@@ -31,12 +29,10 @@ const getPeople = () => {
                     </div>
                     `
             }).join('');
-
-            console.log(peopleHTML)
            
             container.innerHTML = peopleHTML;
             
-            var cards = document.querySelectorAll('.card');
+            const cards = document.querySelectorAll('.card');
 
             cards.forEach(card => {
                 card.addEventListener( 'click', function() {
@@ -48,30 +44,3 @@ const getPeople = () => {
 }
 
 getPeople();
-
-const charForm = document.querySelector('')
-
-function get30SWPeople(params) {
-  let people = [];
-  const SWPromises = [
-      fetch('https://swapi.dev/api/people/?page=1'),
-      fetch('https://swapi.dev/api/people/?page=2'),
-      fetch('https://swapi.dev/api/people/?page=3')
-  ]
- return Promise.all(SWPromises)
-  .then(ResponsesArr => {
-      return Promise.all(
-          ResponsesArr.map(data => data.json())
-          ) 
-  })
-  .then(jsonDataArr => {
-      people = jsonDataArr.reduce(
-          (acc, data) => [...acc, ...data.results]
-          , people)
-      return people;
-  })
-}
-get30SWPeople().then(people => {
-  console.log(people)
-  
-});

@@ -88,13 +88,13 @@ img {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #333333;
+  background-color: #4d4d4d;
 }
 
 .nav-list {
   display: flex;
   margin-right: 2rem;
-  background-color: #333333;
+  background: linear-gradient(to bottom, #4395B4 0%, #11587F 100%);
 }
 .nav-list:hover {
   margin-right: 2rem;
@@ -160,9 +160,11 @@ img {
 .project-tile {
   display: flex;
   flex-direction: column;
-  background-color: #11587F;
+  background-color: #4395B4;
   height: 450px;
   width: 400px;
+  border-style: solid;
+  border-width: 2px;
 }
 
 .project-header {
@@ -183,7 +185,7 @@ img {
 .scene {
   width: 200px;
   height: 260px;
-  border: 1px solid #CCC;
+  border: 1px solid #d5d5d5;
   margin: 40px 0;
   perspective: 600px;
 }
@@ -273,5 +275,5 @@ label {
   align-items: center;
   width: 100%;
   height: 30px;
-  background-color: lightgray;
+  background-color: #d5d5d5;
 }
