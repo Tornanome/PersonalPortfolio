@@ -33,15 +33,13 @@ body {
 h1 {
   font-size: 6rem;
   font-weight: 700;
-  text-align: center;
   color: #000000;
 }
 
 h2 {
   font-size: 4.5rem;
   font-weight: 500;
-  text-align: center;
-  color: #55AD7A;
+  color: white;
 }
 
 h3 {
@@ -96,6 +94,7 @@ img {
   margin-right: 2rem;
   background: linear-gradient(to bottom, #4395B4 0%, #11587F 100%);
 }
+
 .nav-list:hover {
   margin-right: 2rem;
   background-color: gray;
@@ -115,12 +114,22 @@ img {
   flex-direction: column;
   height: 100vh;
   overflow: auto;
-  justify-content: center;
-  align-items: center;
-  background-image: linear-gradient(to bottom right, #11587F, #4395B4);
+  background-image: url("../img/image-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* background-image: linear-gradient(to bottom right, #11587F, #4395B4); */
 }
-#welcome-section h1 {
-  padding: 10vh 0 0 10px;
+.ws-text {
+  padding: 20px 0 20px 30px;
+  margin-bottom: 0;
+  margin-top: auto;
+}
+
+.ws-text h1 {
+  font-size: 6rem;
+  font-weight: 700;
+  color: white;
 }
 
 /* Project section */
@@ -194,7 +203,7 @@ img {
   width: 100%;
   height: 100%;
   transition: transform 1s;
-transform-style: preserve-3d;
+  transform-style: preserve-3d;
   cursor: pointer;
   position: relative;
 }
