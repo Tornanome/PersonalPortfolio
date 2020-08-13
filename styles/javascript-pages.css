@@ -75,6 +75,49 @@ display: block;
 width: 100%;
 }
 
+/* Navigation bar */
+
+#navbar {
+display: flex;
+align-items: center;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+background-color: #4d4d4d;
+}
+
+#nav-buttons {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+background-color: #4d4d4d;
+}
+
+.nav-list {
+display: flex;
+margin-right: 2rem;
+background: linear-gradient(to bottom, #4395B4 0%, #11587F 100%);
+}
+
+.nav-list:hover {
+margin-right: 2rem;
+background-color: gray;
+}
+
+.nav-list a {
+display: block;
+font-size: 1.8rem;
+padding: 1.5rem 2rem;
+color: #D5D5D5;
+}
+
+/* Star Wars page css */
+
 .container1 {
     display: flex;
     flex-direction: row;
@@ -136,6 +179,8 @@ width: 100%;
     transform: rotateY(180deg);
 }
 
+/* Star Wars add people form css */
+
 #charForm {
     margin: 20px;
 }
@@ -156,3 +201,5 @@ label, input {
 label {
     padding-right: 10px;
 }
+
+
