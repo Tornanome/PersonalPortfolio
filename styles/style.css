@@ -38,7 +38,7 @@ h1 {
 
 h2 {
   font-size: 4.5rem;
-  font-weight: 700;
+  font-weight: 400;
   color: white;
 }
 
@@ -79,6 +79,16 @@ img {
 /* nav */
 
 #navbar {
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #4d4d4d;
+}
+
+#nav-buttons {
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -184,12 +194,6 @@ img {
   background-color: #000000;
   top: 0px;
   height: 75px;
-}
-
-/* Star Wars Section */
-
-#starWarsSection {
-  height: 600px;
 }
 
 .scene {

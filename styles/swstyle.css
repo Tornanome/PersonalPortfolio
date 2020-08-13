@@ -3,8 +3,6 @@ body, p, h1, h2, h3, h4, h5, h6 {
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
-  
-* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: inherit; }
 
 @media only screen and (min-width: 980px) {
     .element {
@@ -25,10 +23,10 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
-    font-size: 1.4rem;
-    font-weight: 400;
-  }
+font-family: 'Roboto', sans-serif;
+font-size: 1.4rem;
+font-weight: 400;
+}
   
 h1 {
 font-size: 6rem;
@@ -76,11 +74,6 @@ img {
 display: block;
 width: 100%;
 }
-  
-
-.the_cards {
-
-}
 
 .container1 {
     display: flex;
@@ -89,19 +82,19 @@ width: 100%;
     justify-content: space-around;
   }
 
-.container {
+#container {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 10px;
 }
 
 .scene {
     width: 200px;
     height: 260px;
     border: 1px solid #CCC;
-    margin: 40px 0;
-
+    margin: 10px;
 }
   
 .card {
@@ -124,11 +117,14 @@ width: 100%;
     height: 100%;
     justify-content: center;
     align-items: center;
-    color: white;
     text-align: center;
     font-weight: bold;
     font-size: 40px;
     backface-visibility: hidden;
+}
+
+.card__face img {
+    size: cover;
 }
   
 .card__face--front {
@@ -139,7 +135,11 @@ width: 100%;
     background: blue;
     transform: rotateY(180deg);
 }
-  
+
+#charForm {
+    margin: 20px;
+}
+
 form.swinput {
     display: table;
 }

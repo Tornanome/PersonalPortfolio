@@ -23,8 +23,8 @@ const getPeople = () => {
                     return `
                     <div class="scene">
                         <div class="card">
-                        <div class="card_face card_face--front">${person.name}</div>
-                        <div class="card_face card_face--back"><div><p><img src='img/swImg/characters/${person.id}.jpg'/></p></div></div>
+                            <div class="card__face card__face--front">${person.name}</div>
+                            <div class="card__face card__face--back"><div><img src='img/swImg/characters/${person.id}.jpg'/></div></div>
                         </div>
                     </div>
                     `
