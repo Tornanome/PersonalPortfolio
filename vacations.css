@@ -1,0 +1,307 @@
+/* CSS reset */
+body, p, h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+    
+}
+
+/* box model fix here */
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;} 
+
+/* --- BODY --- */
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #090f0f;
+    background-color: white;
+    background-image: url(images/background.gif);
+    background-repeat: repeat-x;
+    font-size: 16px;
+}
+
+/* --- WRAPPER --- */
+div#wrapper {
+    margin: 0 auto;
+    max-width: 960px;
+    box-shadow: 0 0 10px #777;
+    
+}
+
+/* --- HEADER --- */
+header {
+    background-color: #edf2fb;
+    background-image: url(images/sphere-x_logo.png);
+    background-size: 120px;
+    background-repeat: no-repeat;
+    background-position: 2% .4rem;
+    
+}
+header h1 {
+    color: #090f0f;
+    padding: 1rem 0 0 9rem;
+    font-size: 1.75rem;
+}
+
+header h2 {
+    color: #090f0f;
+    padding-left: 9rem;
+    padding-bottom: .5rem;
+    font-size: .86rem;
+    letter-spacing: 2.1px;
+    /* --- Needed space between the H2 and the navigation added padding on bottom --- */
+}
+
+
+/* --- NAVIGATION --- */
+/* phone nav here */
+@media only screen and (max-width: 600px) {
+    nav {
+        background-color: #058c8c;
+        padding: .5rem 2%;
+    }
+    
+    nav ul.menu {
+        list-style-type: none;
+        padding: 0;
+    }
+    
+    nav ul.menu li a {
+        padding: .5rem 1rem;
+        margin-bottom: .5rem;
+        background-color: #0A5059;
+        color: #edf2fb;
+        font-weight: 700;
+        text-decoration: none;
+        display: block;
+        border: solid 1px #edf2fb;
+        border-radius: .5rem;
+    }
+    
+    nav ul.menu li a:hover {
+        background-color: #edf2fb;
+        color: #0A5059;
+        border: solid 1px #0A5059;
+    }
+    
+    nav ul.menu li.active a {
+        background-color: #35bfb1;
+        color: #edf2fb;
+    }
+    
+}/* end phone nav */
+
+
+/* desktop nav here */
+@media only screen and (min-width: 601px) {
+   nav {
+        background-color: #0A5059;
+        background: linear-gradient(to bottom, #1295A6 0%, #0A5059 100%);
+        border-top: solid 1px #090f0f;
+        border-bottom: solid 1px #090f0f;
+    }
+    nav ul.menu {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    nav ul.menu li {
+        float: left;
+    }
+    nav ul.menu li a {
+        display: block;
+        padding: .6rem 1.75rem;
+        color: #edf2fb;
+        text-decoration: none;
+        border-right: solid 1px #edf2fb;
+    }
+    nav ul.menu li a:hover {
+        background-color: #058c8c;
+        color: white;
+    }
+    nav ul.menu li.active a {
+        background-color: #35bfb1;
+        color: #edf2fb;
+    }
+}/* end desktop nav */
+
+
+/* --- MAIN --- */
+main {
+    padding: .5rem 2%;
+    background-color: #fff
+}
+main h1 {
+    font-size: 2rem;
+    color: #058c8c;
+    border-bottom: 2px solid LightSlateGray;
+    padding-bottom: .25rem;
+    margin-bottom: .5rem;
+}
+main h2, h3 {
+    color: #090f0f;
+}
+main h2 {
+    font-size: 1.5rem;
+    margin-bottom: .2rem;
+}
+main h3 {
+    font-size: 1.2rem;
+    margin-bottom: .1rem;
+}
+
+main p {
+    padding-bottom: .8rem;
+    line-height: 150%;
+}
+
+main blockquote {
+    font-style: italic;
+    margin: .4rem 2%;
+    font-size: .9rem;
+}
+main a {
+    color: firebrick;
+}
+main a:hover {
+    color: #356BBF;
+}
+
+/* --- MAP --- */
+iframe.mymap {
+    border: 1px solid #666;
+    width: 96%;
+    margin-left: 2%;
+    height: 500px;
+}
+
+
+/* --- VIDEO FROM YOUTUBE --- */
+iframe.myvideo {
+    width: 98%;
+    margin-left: 1%;
+    height: 320px;
+    margin-bottom: 1rem;
+}
+
+
+/* --- IMAGES --- */
+/* --- monkeys image --- */
+figure.rightside {
+    float: right;
+    width: 33.333%;
+    padding: .5%;
+    border: solid 1px #0A5059;
+    margin: 0 0 .25em 2%;
+}
+figure.rightside img {width: 100%}
+figure.rightside figcaption {
+    text-align: center;
+    font-size: .7em;
+    color:#0A5059;
+}
+/* --- signiture image --- */
+figure.signiture{
+    width: 300px;
+    margin: .25em 0 .5em 0;
+}
+figure.signiture img {width: 100%;}
+/* --- locations images --- */
+figure.locations {
+    float: left;
+    padding: 2px;
+    border: 1px solid #0A5059;
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    margin: 1rem;
+}
+figure.locations img {width: 100%;}
+figure.locations h3 {color: #058c8c;}
+figure.locations figcaption {font-size: .8rem}
+figure.locations figcaption span {
+    display: block;
+    font-weight: bold;
+    font-size: .9rem;
+    color: #0A5059;
+}
+
+/* --- LISTS --- */
+main ul.diamond, main ol.arrow {
+    margin: 0 0 .8rem 0;
+    padding: 0 0 0 2rem;
+}
+main ul.diamond {
+    list-style-image: url(images/bullet-diamond.gif);
+}
+
+main ol.arrow {
+    list-style-image: url(images/bullet-arrow.gif);
+}
+
+main dl dt {
+    margin: 0;
+    font-weight: 700;
+    padding: 0 0 0 1rem;
+}
+
+main dl dd {
+    margin: 0;
+    padding: 0 0 .75rem 2rem;
+}
+
+
+
+/* --- FORM STYLING --- */
+form.dbportfolio fieldset {
+    margin-bottom: 2rem;
+    border-radius: .3rem;
+    font-size: .85rem;
+    color: #058c8c;
+}
+
+form.dbportfolio legend {
+    font-weight: 700;
+    margin-left: 1.2rem;
+}
+
+form.dbportfolio span {
+    display: block;
+    padding: .75rem 0 0 .35rem;
+}
+form.dbportfolio .userinfo {
+    color: #0A5059;
+    width: 20rem;
+    border-radius: .35rem;
+    border: solid 1.3px #0A5059;
+    padding: .4rem;
+}
+form.dbportfolio .signupbutton {
+    width: 10rem;
+    padding: .6rem;
+    margin-left: 2%;
+    background: #0A5059;
+    color: #edf2fb;
+    border: solid 1.3px #058c8c;
+    border-radius: .35rem;
+}
+
+
+
+
+/* --- FOOTER --- */
+footer {
+    background-color: rgb(6, 140, 140)
+}
+footer p {
+    text-align: left;
+    color: #edf2fb;
+    padding: .5rem 2% .5rem 2%;
+    font-size: .8rem;
+    font-weight: 700; 
+}
+
+
+/* --- OTHER --- */
+div.keepOpen {
+    clear: both;
+}
