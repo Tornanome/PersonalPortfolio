@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Paralax Effect Page</title>
+        <link rel="stylesheet" href="styles/paralax.css">
+    </head>
+    <body>
+        <section>
+            <img src="img/bg.jpg" id="bg">
+            <img src="img/moon.png" id="moon">
+            <img src="img/mountain.png" id="mountain">
+            <img src="img/road.png" id="road">
+            <h2 id="text">Parallax!</h2>
+        </section>
+        <script src="/paralax.js">
+            let bg = document.getElementById("bg");
+            let moon = document.getElementById("moon");
+            let mountain = document.getElementById("mountain");
+            let road = document.getElementById("road");
+            let text = document.getElementById("text");
+
+            window.addEventListener('scroll', function(){
+                var value = window.scrollY;
+
+                bg.style.top = value * 0.5 + 'px';
+                moon.style.left = -value * 0.5 + 'px';
+                mountain.style.top = -value * 0.15 + 'px';
+                road.style.top = value * 0.15 + 'px';
+                text.style.top = value * 1 + 'px';
+            })
+        </script>
+    </body>
+</html>

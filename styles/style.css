@@ -245,6 +245,32 @@ img {
   background-size: cover;
   background-position: center;
 }
+#project-image7 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/project-img-7.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#project-image8 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/project-img-8.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#project-image9 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/project-img-9.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 
 /* contact */
 
