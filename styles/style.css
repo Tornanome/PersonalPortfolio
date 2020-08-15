@@ -147,7 +147,11 @@ img {
 #projects {
   background-color: white;
   text-align: center;
-  padding: 6rem 2rem 2rem 2rem;
+  padding: 2rem 2rem 1rem 2rem;
+}
+
+#projects h3 {
+  font-size: 3rem
 }
 
 #project-section {
@@ -157,7 +161,7 @@ img {
   width: 100%;
   max-width: 1280px;
   margin: 0 auto;
-  margin-bottom: 6rem;
+  margin-bottom: 2rem;
 }
 @media (max-width: 30.625em) {
   .projects {
@@ -167,7 +171,7 @@ img {
 
 .project-section-header {
   max-width: 550px;
-  margin: 0 auto 6rem auto;
+  margin: 0 auto 2rem auto;
   border-top: 0.2rem solid;
   border-bottom: 0.2rem solid;
   color: black;
