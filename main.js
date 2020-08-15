@@ -75,6 +75,3 @@ personForm.addEventListener('submit', (event) => {
     container.inenerHTML = newPersonHTML;
 
 })
-
-/* Pokedex javascript */
-
