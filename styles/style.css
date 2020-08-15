@@ -250,14 +250,21 @@ img {
 
 #contact {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 300px;
   background-image: linear-gradient(to bottom right, #11587F, #4395B4);
 }
 
+#contact-header {
+  display: flex;
+  padding-bottom: 20px;
+}
+
 #contact-body {
   display: flex;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
 }
@@ -265,7 +272,7 @@ img {
 .social-link {
   background-color: #55AD7A;
   margin: 20px;
-  padding: 35px 45px;
+  padding: 25px 35px;
 }
 
 .social-link a {
