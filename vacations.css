@@ -33,18 +33,18 @@ header {
     background-image: url(images/sphere-x_logo.png);
     background-size: 120px;
     background-repeat: no-repeat;
-    background-position: 2% .4rem;
+    background-position: left;
     
 }
 header h1 {
     color: #090f0f;
-    padding: 1rem 0 0 9rem;
+    padding: 1rem 0 0 1rem;
     font-size: 1.75rem;
 }
 
 header h2 {
     color: #090f0f;
-    padding-left: 9rem;
+    padding-left: .1rem;
     padding-bottom: .5rem;
     font-size: .86rem;
     letter-spacing: 2.1px;
