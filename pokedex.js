@@ -19,6 +19,8 @@ const fetchPokemon = () => {
     });
 };
 
+// Now display the received data from the pokeapi
+
 const displayPokemon = (pokemon) => {
     console.log(pokemon);
     const pokemonHTMLString = pokemon
