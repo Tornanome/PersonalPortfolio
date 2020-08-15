@@ -273,6 +273,33 @@ img {
   background-position: center;
 }
 
+#project-image10 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/project-img-10.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#project-image11 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/project-img-11.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#project-image12 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/project-img-12.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 /* contact */
 
 #contact {
