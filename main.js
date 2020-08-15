@@ -1,5 +1,3 @@
-import people from './people.js';
-
 const container = document.querySelector('#container');
 
 const getPeople = () => {
