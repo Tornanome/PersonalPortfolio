@@ -295,6 +295,7 @@ footer {
 footer p {
     text-align: left;
     color: #edf2fb;
+    margin: 20px 0 0 0;
     padding: .5rem 1rem .5rem 1rem;
     font-size: .8rem;
     font-weight: 700; 

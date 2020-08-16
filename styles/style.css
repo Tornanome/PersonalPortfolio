@@ -317,12 +317,12 @@ img {
 
 #contact-header {
   display: flex;
+  flex-direction: column;
   padding-bottom: 20px;
 }
 
 #contact-body {
   display: flex;
-  flex-direction: row;
   justify-content: center;
   align-items: center;
 }
