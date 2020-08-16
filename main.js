@@ -1,5 +1,5 @@
 const container = document.querySelector('#container');
-
+// gets
 const getPeople = () => {
     fetch('http://swapi.dev/api/people/')
         .then(resp => resp.json())

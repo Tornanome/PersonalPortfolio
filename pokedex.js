@@ -1,6 +1,6 @@
 const pokedex = document.getElementById('pokedex');
 
-// Gets the infomation from the api to this page and 
+// Gets the infomation from the api to this page and will constently do so for all the pokemon.
 
 const fetchPokemon = () => {
     const promises = [];
@@ -20,9 +20,9 @@ const fetchPokemon = () => {
 };
 
 // Now display the received data from the pokeapi
-
 const displayPokemon = (pokemon) => {
     console.log(pokemon);
+    // Gets information and puts it onto the html page
     const pokemonHTMLString = pokemon
         .map(
             (pokeman) => `
