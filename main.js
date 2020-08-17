@@ -19,6 +19,7 @@ const getPeople = () => {
         
             const mySWpeopleArray = people.map(redfinePerson)
 
+            // export to html page
             const peopleHTML = mySWpeopleArray.map(person => {
                     return `
                     <div class="scene">
@@ -32,6 +33,7 @@ const getPeople = () => {
            
             container.innerHTML = peopleHTML;
             
+            // Card Flip Code
             const cards = document.querySelectorAll('.card');
 
             cards.forEach(card => {
