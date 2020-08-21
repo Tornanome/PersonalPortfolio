@@ -75,7 +75,6 @@ img {
   width: 100%;
 }
 
-
 /* nav */
 
 #navbar {
@@ -113,7 +112,7 @@ img {
 .nav-list a {
   display: block;
   font-size: 1.8rem;
-  padding: 1.5rem 2rem;
+  padding: 15px 20px;
   color: #D5D5D5;
 }
 
@@ -238,7 +237,7 @@ img {
   background-image: url("../img/project-img-5.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: center;
 }
 
 #project-image6 {
