@@ -31,19 +31,19 @@ body {
 }
 
 h1 {
-  font-size: 6rem;
+  font-size: 38px;
   font-weight: 700;
   color: #000000;
 }
 
 h2 {
-  font-size: 4.5rem;
+  font-size: 32px;
   font-weight: 400;
   color: white;
 }
 
 h3 {
-  font-size: 3.5rem;
+  font-size: 3rem;
   font-weight: 400;
   color: #D5D5D5;
 }
@@ -111,8 +111,8 @@ img {
 
 .nav-list a {
   display: block;
-  font-size: 1.8rem;
-  padding: 15px 20px;
+  font-size: 18px;
+  padding: 12px 15px;
   color: #D5D5D5;
 }
 
@@ -310,14 +310,13 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 300px;
+  height: 150px;
   background-image: linear-gradient(to bottom right, #11587F, #4395B4);
 }
 
 #contact-header {
   display: flex;
   flex-direction: column;
-  padding-bottom: 20px;
 }
 
 #contact-body {
@@ -329,7 +328,7 @@ img {
 .social-link {
   background-color: #55AD7A;
   margin: 20px;
-  padding: 25px 35px;
+  padding: 20px;
 }
 
 .social-link a {

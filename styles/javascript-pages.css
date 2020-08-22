@@ -102,11 +102,10 @@ background-color: gray;
 
 .nav-list a {
 display: block;
-font-size: 1.8rem;
-padding: 1.5rem 2rem;
+font-size: 1.5rem;
+padding: 12px 15px;
 color: #D5D5D5;
 }
-
 /* Star Wars page css */
 
 #textSection {
@@ -208,6 +207,7 @@ label {
 .poke-container {
     padding: 40px;
     margin: 0 auto;
+    background-color: red;
 }
 
 #pokedex {
