@@ -291,7 +291,7 @@ img {
   background-image: url("../img/project-img-11.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
 }
 
 #project-image12 {
