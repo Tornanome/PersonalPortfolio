@@ -26,7 +26,7 @@
 
 body {
   font-family: 'Lato', sans-serif;
-  font-size: 1.4rem;
+  font-size: 14px;
   font-weight: 400;
 }
 
@@ -43,24 +43,24 @@ h2 {
 }
 
 h3 {
-  font-size: 3rem;
+  font-size: 28px;
   font-weight: 400;
   color: #D5D5D5;
 }
 
 h4 {
-  font-size: 2rem;
+  font-size: 20px;
   font-weight: 400;
   color: #D5D5D5;
 }
 
 h5 {
-  font-size: .8rem;
+  font-size: 10px;
   font-weight: 300;
 }
 
 p {
-  font-size: 1rem;
+  font-size: 14px;
   font-weight: 400;
   color: #D5D5D5;
 }
@@ -99,19 +99,18 @@ img {
 }
 
 .nav-list {
-  display: flex;
-  margin-right: 2rem;
+  margin-right: 20px;
   background: linear-gradient(to bottom, #4395B4 0%, #11587F 100%);
 }
 
 .nav-list:hover {
-  margin-right: 2rem;
+  margin-right: 20px;
   background-color: gray;
 }
 
 .nav-list a {
   display: block;
-  font-size: 18px;
+  font-size: 20px;
   padding: 12px 15px;
   color: #D5D5D5;
 }
@@ -136,7 +135,7 @@ img {
 }
 
 .ws-text h1 {
-  font-size: 6rem;
+  font-size: 60px;
   font-weight: 700;
   color: white;
 }
@@ -191,7 +190,7 @@ img {
   align-items: center;
   background-color: #000000;
   top: 0px;
-  height: 100px;
+  height: 75px;
   width: 400px;
 }
 
@@ -228,7 +227,7 @@ img {
   background-image: url("../img/project-img-4.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: top;
 }
 
 #project-image5 {
@@ -291,13 +290,22 @@ img {
   background-image: url("../img/project-img-11.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: bottom;
+  background-position: bottom, center;
 }
 
 #project-image12 {
   height: 350px;
   overflow: auto;
   background-image: url("../img/project-img-12.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#project-image13 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/project-img-13.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
