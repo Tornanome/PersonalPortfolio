@@ -135,7 +135,13 @@ img {
 }
 
 .ws-text h1 {
-  font-size: 60px;
+  font-size: 90px;
+  font-weight: 700;
+  color: white;
+}
+
+.ws-text h2 {
+  font-size: 50px;
   font-weight: 700;
   color: white;
 }
