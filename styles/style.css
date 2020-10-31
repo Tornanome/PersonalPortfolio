@@ -248,7 +248,7 @@ img {
 #project-image6 {
   height: 350px;
   overflow: auto;
-  background-image: url("../img/project-img-6.jpg");
+  background-image: url("../img/project-img-6.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -312,6 +312,24 @@ img {
   height: 350px;
   overflow: auto;
   background-image: url("../img/project-img-13.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#project-image14 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/project-img-14.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#project-image15 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/project-img-15.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
