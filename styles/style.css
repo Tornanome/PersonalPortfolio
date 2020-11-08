@@ -115,6 +115,10 @@ img {
   color: #D5D5D5;
 }
 
+#navbarpadding {
+  height: 3rem;
+}
+
 /* Welcome section */
 
 #welcome-section {
@@ -198,6 +202,15 @@ img {
   top: 0px;
   height: 75px;
   width: 400px;
+}
+
+#project-image0 {
+  height: 350px;
+  overflow: auto;
+  background: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 #project-image1 {
