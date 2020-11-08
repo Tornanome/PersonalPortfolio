@@ -333,7 +333,7 @@ img {
 #project-image14 {
   height: 350px;
   overflow: auto;
-  background-image: url("../img/project-img-14.png");
+  background-image: url("../img/Pano_1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -343,6 +343,24 @@ img {
   height: 350px;
   overflow: auto;
   background-image: url("../img/project-img-15.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image1 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image2 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
