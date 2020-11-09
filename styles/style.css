@@ -366,6 +366,15 @@ img {
   background-position: center;
 }
 
+#pano-image3 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 /* contact */
 
 #contact {
