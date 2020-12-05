@@ -348,6 +348,15 @@ img {
   background-position: center;
 }
 
+#pano-image0 {
+  height: 350px;
+  overflow: auto;
+  background: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 #pano-image1 {
   height: 350px;
   overflow: auto;
@@ -370,6 +379,60 @@ img {
   height: 350px;
   overflow: auto;
   background-image: url("../img/Pano_3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image4 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image5 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image6 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_6.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image7 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_7.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image8 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_8.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image9 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_9.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
