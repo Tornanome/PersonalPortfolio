@@ -438,6 +438,15 @@ img {
   background-position: center;
 }
 
+#pano-image10 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_0.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 /* contact */
 
 #contact {
