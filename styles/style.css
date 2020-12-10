@@ -204,6 +204,16 @@ img {
   width: 400px;
 }
 
+.pano-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  top: 0px;
+  height: 75px;
+  width: 550px;
+}
+
 #project-image0 {
   height: 350px;
   overflow: auto;
@@ -442,6 +452,15 @@ img {
   height: 350px;
   overflow: auto;
   background-image: url("../img/Pano_0.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#panorama-image1 {
+  height: 250px;
+  overflow: auto;
+  background-image: url("../img/Pano_1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
