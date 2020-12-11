@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+  
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: inherit; }
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 38px;
+    font-weight: 700;
+    color: #000000;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 400;
+    color: black;
+}
+  
+h3 {
+    font-size: 28px;
+    font-weight: 400;
+    color: black;
+}
+  
+h4 {
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+}
+  
+h5 {
+    font-size: 10px;
+    font-weight: 300;
+}
+  
+p {
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+}
+
+.audios {
+    margin: 10px auto 5px 10px;
+}
