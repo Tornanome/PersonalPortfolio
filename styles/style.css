@@ -451,7 +451,52 @@ img {
 #pano-image10 {
   height: 350px;
   overflow: auto;
-  background-image: url("../img/Pano_0.jpg");
+  background-image: url("../img/Pano_10.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image11 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_11.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image12 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_12.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image13 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_13.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image14 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_14.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image15 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_15.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
