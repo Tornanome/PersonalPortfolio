@@ -116,7 +116,8 @@ img {
 }
 
 #navbarpadding {
-  height: 3rem;
+  height: 48px;
+  background-color: #4d4d4d;
 }
 
 /* Welcome section */
@@ -124,7 +125,7 @@ img {
 #welcome-section {
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: 94vh;
   overflow: auto;
   background-image: url("../img/image-1.jpg");
   background-repeat: no-repeat;
