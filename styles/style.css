@@ -154,9 +154,7 @@ img {
 @media only screen and (min-width: 601px) {
  nav {
       background-color: #4d4d4d;
-      background: linear-gradient(to bottom, #3d3d3d 0%, #5d5d5d 100%);
-      border-top: solid 1px #090f0f;
-      border-bottom: solid 1px #090f0f;
+      background: linear-gradient(to bottom, #4395B4 0%, #11587F 100%);
   }
   nav ul.menu {
       list-style-type: none;
