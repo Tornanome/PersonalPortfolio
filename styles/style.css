@@ -565,6 +565,33 @@ img {
   background-position: center;
 }
 
+#pano-image16 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_16.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image17 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_17.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#pano-image18 {
+  height: 350px;
+  overflow: auto;
+  background-image: url("../img/Pano_18.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 #panorama-image1 {
   height: 250px;
   overflow: auto;
