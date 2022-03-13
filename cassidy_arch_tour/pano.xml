@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <panorama id="node1" apprev="18105" appversion="6.1.14">
-  <input levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" width="1981" levelbias="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1981">
-    <level preload="0" predecode="0" width="1981" height="1981"/>
-    <level preload="0" predecode="0" width="990" height="990"/>
-    <level preload="1" predecode="1" width="495" height="495"/>
+  <input levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="1981" height="1981" levelbias="0.400">
+    <level predecode="0" preload="0" width="1981" height="1981"/>
+    <level predecode="0" preload="0" width="990" height="990"/>
+    <level predecode="1" preload="1" width="495" height="495"/>
     <preview color="0x808080" strip="1"/>
   </input>
-  <view pannorth="90" fovmode="0">
-    <start tilt="-15" pan="0" fov="70" projection="4"/>
-    <flyin tilt="-90" pan="0" fov="170" projection="9"/>
-    <min tilt="-90" pan="0" fovpixel="2"/>
-    <max tilt="90" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1" fov="120"/>
+  <view fovmode="0" pannorth="90">
+    <start fov="70" pan="0" projection="4" tilt="-15"/>
+    <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+    <min pan="0" fovpixel="2" tilt="-90"/>
+    <max fov="120" fovstereographic="270" pan="360" fovfisheye="360" tilt="90" scaletofit="1"/>
   </view>
-  <userdata comment="" altitude="1774.98" tags="CR_Cassidy_Arch" customnodeid="" title="Cassidy Arch" latitude="38.26095027" author="Derek Balkman" datetime="11/6/21 10:26 AM" source="" nodeid="node1" heading="90" description="" copyright="" info="" longitude="-111.22597217"/>
-  <hotspots width="180" wordwrap="1" height="20">
-    <label enabled="1" backgroundalpha="1" borderalpha="1" textalpha="1" width="180" background="1" borderradius="1" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" height="20" textcolor="0x000000" border="1"/>
-    <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
-    <hotspot tilt="1.43" id="Point02" pan="-125.06" title="" target="" skinid="ht_image" url="images/8dff3a4d-04e2-482e-a8ea-86eb40dfa61fOriginal.jpeg" description=""/>
-    <hotspot tilt="4.86" id="Point03" pan="-173.65" title="" target="" skinid="ht_image" url="images/7057d5ec-eb29-4466-be2b-21cfd8500c6bOriginal.jpeg" description=""/>
-    <hotspot tilt="-25.29" id="Point01" pan="-341.06" title="" target="" skinid="ht_image" url="images/8375716740_059ca6d88d_o.jpeg" description=""/>
-    <hotspot tilt="-30.23" id="Point04" pan="-10.52" title="" target="" skinid="ht_image" url="images/IMG_9150.jpg" description=""/>
-    <hotspot tilt="-2.96" id="Point05" pan="-287.46" title="" target="" skinid="ht_image" url="images/IMG_9901.jpg" description=""/>
-    <hotspot tilt="-16.33" id="Point06" pan="-258.65" title="" target="" skinid="ht_image" url="images/IMG_9890.jpg" description=""/>
-    <hotspot tilt="-7.41" id="Point07" pan="-323.54" title="" target="" skinid="ht_image" url="images/IMG_9133 copy.jpg" description=""/>
-    <hotspot tilt="-5.93" id="Point08" pan="-70.43" title="" target="" skinid="ht_image" url="images/IMG_9908.jpg" description=""/>
+  <userdata title="Cassidy Arch" info="" author="Derek Balkman" customnodeid="" comment="" altitude="1774.98" copyright="" tags="CR_Cassidy_Arch" latitude="38.26095027" description="" datetime="11/6/21 10:26 AM" source="" longitude="-111.22597217" nodeid="node1" heading="90"/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label backgroundalpha="1" wordwrap="1" bordercolor="0x000000" border="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" borderradius="1" background="1" textalpha="1" enabled="1" width="180" height="20"/>
+    <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1"/>
+    <hotspot title="" pan="-119.12" id="Point02" url="images/8dff3a4d-04e2-482e-a8ea-86eb40dfa61fOriginal.jpeg" target="" skinid="ht_image" description="" tilt="-0.03"/>
+    <hotspot title="" pan="-343.47" id="Point01" url="images/8375716740_059ca6d88d_o.jpeg" target="" skinid="ht_image" description="" tilt="-24.9"/>
+    <hotspot title="" pan="-1.9" id="Point04" url="images/IMG_9150.jpg" target="" skinid="ht_image" description="" tilt="-14.6"/>
+    <hotspot title="" pan="-299.5" id="Point05" url="images/IMG_9901.jpg" target="" skinid="ht_image" description="" tilt="-0.33"/>
+    <hotspot title="" pan="-230.15" id="Point06" url="images/IMG_9890.jpg" target="" skinid="ht_image" description="" tilt="-2.14"/>
+    <hotspot title="" pan="-312.55" id="Point07" url="images/IMG_9133 copy.jpg" target="" skinid="ht_image" description="" tilt="-7.41"/>
+    <hotspot title="" pan="-67.37" id="Point08" url="images/IMG_9908.jpg" target="" skinid="ht_image" description="" tilt="-5.05"/>
   </hotspots>
   <media/>
-  <transition type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="20" zoomout="0" zoomafterinfov="90" softedge="0" zoomin="0" zoomoutpause="1"/>
+  <transition zoomout="0" zoomspeed="2" zoomoutpause="1" zoomafteroutfov="20" softedge="0" zoomafterinfov="90" blendcolor="0x000000" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomin="0"/>
   <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
-  <control rubberband="0" lockedwheel="0" dblclickfullscreen="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" lockedmouse="0" contextvr="1" sensitivity="8" contextprojections="0" simulatemass="1" hideabout="0" contextfullscreen="1" invertwheel="0" invertcontrol="1"/>
+  <control lockedmouse="0" speedwheel="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedwheel="0" contextprojections="0" lockedkeyboard="0" invertwheel="0" contextfullscreen="1" simulatemass="1" contextvr="1" lockedkeyboardzoom="0" hideabout="0"/>
 </panorama>
