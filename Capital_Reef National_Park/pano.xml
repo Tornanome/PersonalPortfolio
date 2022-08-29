@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.15" start="node12" apprev="18116">
+  <panorama id="node12">
+    <input levelingpitch="0" tile2url="images/IMG_8230_1_2_Realistic Panorama 2_o_2.jpg" tile0url="images/IMG_8230_1_2_Realistic Panorama 2_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8230_1_2_Realistic Panorama 2_o_1.jpg" tile4url="images/IMG_8230_1_2_Realistic Panorama 2_o_4.jpg" tilesize="2048" tile3url="images/IMG_8230_1_2_Realistic Panorama 2_o_3.jpg" tile5url="images/IMG_8230_1_2_Realistic Panorama 2_o_5.jpg" tilevrurl="images/IMG_8230_1_2_Realistic Panorama 2_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-123.25" projection="4" tilt="7.97"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Fruta Barn" datetime="3/26/22 3:15 PM" heading="0" title="Capitol Reef - Fruta Barn" copyright="Derek Balkman" nodeid="node12" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node4}" title="Cassidy Arch Trail" target="" pan="-114.42" tilt="-8" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node5}" title="Field Station Entrance" target="" pan="-134.11" tilt="-8" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="{node13}" title="Capitol Gorge and Tanks Trail" target="" pan="-140.54" tilt="-8" description="" skinid="ht_node"/>
+      <hotspot id="Point04" url="{node17}" title="Hickman Bridge Trail" target="" pan="-108.01" tilt="-8" description="" skinid="ht_node"/>
+      <hotspot id="Point05" url="{node22}" title="Grand Wash Trail" target="" pan="-121.05" tilt="-8" description="" skinid="ht_node"/>
+      <hotspot id="Point06" url="{node10}" title="Sleeping Rainbow Ranch" target="" pan="-128.16" tilt="-8" description="" skinid="ht_node"/>
+      <hotspot id="Point07" url="{node25}" title="Gifford House" target="" pan="-254.33" tilt="0.51" description="" skinid="ht_node"/>
+      <hotspot id="Point08" url="images/barn landscape.jpg" title="Barn Image" target="" pan="-171.63" tilt="-3" description="" skinid="ht_image"/>
+      <hotspot id="Point09" url="images/Barn day.jpg" title="Barn Day Image" target="" pan="-137.9" tilt="8" description="" skinid="ht_image"/>
+      <hotspot id="Point10" url="images/visitorscenter.jpg" title="The Castle Image" target="" pan="-276.76" tilt="-0.47" description="" skinid="ht_image"/>
+      <hotspot id="Point11" url="images/Barn night 1.jpg" title="Barn Night Image" target="" pan="-142.43" tilt="8" description="" skinid="ht_image"/>
+      <hotspot id="Point17" url="images/fruita2.jpg" title="View from Fruita" target="" pan="-6.24" tilt="1" description="" skinid="ht_image"/>
+      <hotspot id="Point18" url="images/Capitolbarnnight.jpg" title="Night Sky Image" target="" pan="-146.75" tilt="8" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" tile2url="images/IMG_8212_3_4_Realistic Panorama_o_2.jpg" tile0url="images/IMG_8212_3_4_Realistic Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8212_3_4_Realistic Panorama_o_1.jpg" tile4url="images/IMG_8212_3_4_Realistic Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_8212_3_4_Realistic Panorama_o_3.jpg" tile5url="images/IMG_8212_3_4_Realistic Panorama_o_5.jpg" tilevrurl="images/IMG_8212_3_4_Realistic Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="" datetime="3/26/22 2:45 PM" heading="0" title="Cassidy Arch Trail Head" copyright="Derek Balkman" nodeid="node4" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node3}" title="Cassidy Arch Trail 2 (Next)" target="" pan="-285.98" tilt="6" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node12}" title="Home" target="" pan="-191.68" tilt="-1.72" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="{node22}" title="Grandwash Trail 1" target="" pan="-183.94" tilt="-1.14" description="" skinid="ht_node"/>
+      <hotspot id="Point04" url="images/Cassidy.jpg" title="View from Trailhead" target="" pan="-15.58" tilt="-2.71" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" tile2url="images/IMG_8194_5_6_Realistic_Panorama_o_2.jpg" tile0url="images/IMG_8194_5_6_Realistic_Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8194_5_6_Realistic_Panorama_o_1.jpg" tile4url="images/IMG_8194_5_6_Realistic_Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_8194_5_6_Realistic_Panorama_o_3.jpg" tile5url="images/IMG_8194_5_6_Realistic_Panorama_o_5.jpg" tilevrurl="images/IMG_8194_5_6_Realistic_Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-54" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="" datetime="3/26/22 2:31 PM" heading="0" title="Above Parking Lot Cassidy Arch Trail" copyright="Derek Balkman" nodeid="node3" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node2}" title="Cassidy Arch Trail 3 (Next)" target="" pan="-98.21" tilt="5.73" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node4}" title="Cassidy Arch Start Trail (Previous)" target="" pan="-229.57" tilt="-9.59" description="" skinid="ht_node"/>
+      <hotspot id="Point07" url="images/IMG_9908.jpeg" title="Trail Hike View" target="" pan="-86.87" tilt="-4.18" description="" skinid="ht_image"/>
+      <hotspot id="Point03" url="images/Hike cassidy2.jpg" title="View Spot" target="" pan="-314.77" tilt="-15.04" description="" skinid="ht_image"/>
+      <hotspot id="Point04" url="images/cassidy6.jpg" title="Rock Image" target="" pan="-111.5" tilt="7.33" description="" skinid="ht_image"/>
+      <hotspot id="Point05" url="media/IMG_3727.mp4" title="Video of a Flash Flood" target="" pan="-2.49" tilt="-18.75" description="" skinid="ht_video_file"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" tile2url="images/IMG_8176_7_8_Realistic_Panorama_o_2.jpg" tile0url="images/IMG_8176_7_8_Realistic_Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8176_7_8_Realistic_Panorama_o_1.jpg" tile4url="images/IMG_8176_7_8_Realistic_Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_8176_7_8_Realistic_Panorama_o_3.jpg" tile5url="images/IMG_8176_7_8_Realistic_Panorama_o_5.jpg" tilevrurl="images/IMG_8176_7_8_Realistic_Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-140" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="" datetime="3/26/22 2:05 PM" heading="0" title="First View of Cassidy Arch 360" copyright="Derek Balkman" nodeid="node2" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node1}" title="Cassidy Arch (Next)" target="" pan="-169.78" tilt="0.74" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node3}" title="Cassidy Arch Trail 2 (Previous)" target="" pan="-256.59" tilt="-3.03" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/IMG_9133.jpg" title="First view of Cassidy Arch" target="" pan="-130.2" tilt="-3.42" description="" skinid="ht_image"/>
+      <hotspot id="Point04" url="images/hike cassidy1.jpg" title="Picture of on the Trail 1" target="" pan="-178.68" tilt="-3.09" description="" skinid="ht_image"/>
+      <hotspot id="Point05" url="images/cassid75.jpg" title="Picture of on the Trail 2" target="" pan="-176.96" tilt="5.84" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingpitch="0" tile2url="images/IMG_8744_5_6_Balanced Panorama_o_2.jpg" tile0url="images/IMG_8744_5_6_Balanced Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8744_5_6_Balanced Panorama_o_1.jpg" tile4url="images/IMG_8744_5_6_Balanced Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_8744_5_6_Balanced Panorama_o_3.jpg" tile5url="images/IMG_8744_5_6_Balanced Panorama_o_5.jpg" tilevrurl="images/IMG_8744_5_6_Balanced Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="90">
+      <start fov="70" pan="0" projection="4" tilt="-15"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="CR_Cassidy_Arch" datetime="11/6/21 10:26 AM" heading="90" title="Cassidy Arch" copyright="Derek Balkman" nodeid="node1" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="images/8375716740_059ca6d88d_o.jpeg" title="Cassidy Arch Picture 1" target="" pan="-7.32" tilt="-35.85" description="" skinid="ht_image"/>
+      <hotspot id="Point04" url="images/IMG_9150.jpeg" title="View from here towards you" target="" pan="-354.97" tilt="-13.8" description="" skinid="ht_image"/>
+      <hotspot id="Point05" url="images/IMG_9901.jpg" title="The Canyon Veiw" target="" pan="-82.28" tilt="3.48" description="" skinid="ht_image"/>
+      <hotspot id="Point06" url="images/IMG_9890.jpg" title="Rock Tower (A trail marker)" target="" pan="-254.79" tilt="-0.96" description="" skinid="ht_image"/>
+      <hotspot id="Point02" url="{node2}" title="Cassidy Arch Trail 3 (Previous)" target="" pan="-287.69" tilt="-3" description="" skinid="ht_node"/>
+      <hotspot id="Point08" url="{node12}" title="Home" target="" pan="-282.79" tilt="-3" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/IMG_9892.jpg" title="Part of Trail Image" target="" pan="-316.76" tilt="-7.23" description="" skinid="ht_image"/>
+      <hotspot id="Point07" url="images/Cassidy arch2.jpg" title="Cassidy Arch Picture 2" target="" pan="-320.58" tilt="-32.35" description="" skinid="ht_image"/>
+      <hotspot id="Point09" url="images/IMG_8882-HDR.jpg" title="Cassidy Arch Picture 3" target="" pan="-37.95" tilt="-15.36" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" tile2url="images/IMG_7443_4_5_Realistic Panorama_o_2.jpg" tile0url="images/IMG_7443_4_5_Realistic Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_7443_4_5_Realistic Panorama_o_1.jpg" tile4url="images/IMG_7443_4_5_Realistic Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_7443_4_5_Realistic Panorama_o_3.jpg" tile5url="images/IMG_7443_4_5_Realistic Panorama_o_5.jpg" tilevrurl="images/IMG_7443_4_5_Realistic Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-106.75" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 1" datetime="" heading="0" title="Capitol Reef Field Station" copyright="Derek Balkman" nodeid="node5" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node6}" title="Field Station 1" target="" pan="-20.45" tilt="-10.74" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="{node9}" title="Field Station Ranch Overlook" target="" pan="-166.59" tilt="-4" description="" skinid="ht_node"/>
+      <hotspot id="Point04" url="{node12}" title="Home" target="" pan="-237.43" tilt="-3.8" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" tile2url="images/IMG_7926_7_8_Realistic Panorama_o_2.jpg" tile0url="images/IMG_7926_7_8_Realistic Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_7926_7_8_Realistic Panorama_o_1.jpg" tile4url="images/IMG_7926_7_8_Realistic Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_7926_7_8_Realistic Panorama_o_3.jpg" tile5url="images/IMG_7926_7_8_Realistic Panorama_o_5.jpg" tilevrurl="images/IMG_7926_7_8_Realistic Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="108.07" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 2" datetime="3/19/22 5:06 PM" heading="0" title="" copyright="Derek Balkman" nodeid="node6" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node5}" title="Field Station Entrance" target="" pan="-75.64" tilt="-4.58" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node7}" title="Field Station 2" target="" pan="-256.22" tilt="-3.7" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" tile2url="images/IMG_7944_5_6_Realistic Panorama_o_2.jpg" tile0url="images/IMG_7944_5_6_Realistic Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_7944_5_6_Realistic Panorama_o_1.jpg" tile4url="images/IMG_7944_5_6_Realistic Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_7944_5_6_Realistic Panorama_o_3.jpg" tile5url="images/IMG_7944_5_6_Realistic Panorama_o_5.jpg" tilevrurl="images/IMG_7944_5_6_Realistic Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-40.11" projection="4" tilt="0.11"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 3" datetime="3/19/22 6:12 PM" heading="0" title="" copyright="Derek Balkman" nodeid="node7" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node6}" title="Field Station 1" target="" pan="-192.13" tilt="-7.61" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node9}" title="Field Station Ranch Overlook" target="" pan="-50.81" tilt="-4.35" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" tile2url="images/IMG_7992_3_4_Realistic Panorama_o_2.jpg" tile0url="images/IMG_7992_3_4_Realistic Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_7992_3_4_Realistic Panorama_o_1.jpg" tile4url="images/IMG_7992_3_4_Realistic Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_7992_3_4_Realistic Panorama_o_3.jpg" tile5url="images/IMG_7992_3_4_Realistic Panorama_o_5.jpg" tilevrurl="images/IMG_7992_3_4_Realistic Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-89.25" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 5" datetime="3/19/22 6:20 PM" heading="0" title="" copyright="Derek Balkman" nodeid="node9" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node5}" title="Field Station Entrance" target="" pan="-267.59" tilt="-3.69" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node11}" title="Sleeping Rainbow Ranch 2" target="" pan="-112.86" tilt="-11.14" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" tile2url="images/IMG_8010_1_2_Realistic Panorama_o_2.jpg" tile0url="images/IMG_8010_1_2_Realistic Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8010_1_2_Realistic Panorama_o_1.jpg" tile4url="images/IMG_8010_1_2_Realistic Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_8010_1_2_Realistic Panorama_o_3.jpg" tile5url="images/IMG_8010_1_2_Realistic Panorama_o_5.jpg" tilevrurl="images/IMG_8010_1_2_Realistic Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-81.88" projection="4" tilt="0.25"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Sleeping Rainbow Ranch 1" datetime="3/20/22 12:43 PM" heading="0" title="" copyright="Derek Balkman" nodeid="node10" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node11}" title="Sleeping Rainbow Ranch 2" target="" pan="-82.13" tilt="-4.68" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node12}" title="Home" target="" pan="-260.89" tilt="5" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/IMG_9944 copy.jpg" title="Old Structure" target="" pan="-351.11" tilt="3.56" description="" skinid="ht_image"/>
+      <hotspot id="Point04" url="images/IMG_9945 copy.jpg" title="Old Structure" target="" pan="-13.89" tilt="-0.85" description="" skinid="ht_image"/>
+      <hotspot id="Point05" url="images/IMG_9946.jpg" title="Old House" target="" pan="-107.6" tilt="-3.4" description="" skinid="ht_image"/>
+      <hotspot id="Point06" url="images/IMG_9947.jpg" title="Run Down Barn" target="" pan="-103.24" tilt="-2.87" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" tile2url="images/IMG_8037_8_9_Realistic Panorama_o_2.jpg" tile0url="images/IMG_8037_8_9_Realistic Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8037_8_9_Realistic Panorama_o_1.jpg" tile4url="images/IMG_8037_8_9_Realistic Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_8037_8_9_Realistic Panorama_o_3.jpg" tile5url="images/IMG_8037_8_9_Realistic Panorama_o_5.jpg" tilevrurl="images/IMG_8037_8_9_Realistic Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Sleeping Rainbow Ranch 2" datetime="3/20/22 12:48 PM" heading="0" title="" copyright="Derek Balkman" nodeid="node11" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point02" url="{node9}" title="Field Station Ranch Overlook" target="" pan="-302.75" tilt="7.63" description="" skinid="ht_node"/>
+      <hotspot id="Point01" url="{node10}" title="Sleeping Rainbow Ranch 1" target="" pan="-187.06" tilt="-1.94" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="{node12}" title="Home" target="" pan="-26.12" tilt="-8.61" description="" skinid="ht_node"/>
+      <hotspot id="Point04" url="images/IMG_9951 copy.jpg" title="Old Shed" target="" pan="-200.69" tilt="0.06" description="" skinid="ht_image"/>
+      <hotspot id="Point06" url="images/IMG_9923 copy.jpg" title="Rusted Farm Equipment 1" target="" pan="-339.38" tilt="-3" description="" skinid="ht_image"/>
+      <hotspot id="Point07" url="images/IMG_9918.jpg" title="Rusted Farm Equipment 2" target="" pan="-345.27" tilt="-3" description="" skinid="ht_image"/>
+      <hotspot id="Point08" url="images/IMG_9917.jpg" title="Areas Rest Room" target="" pan="-80.4" tilt="-1.02" description="" skinid="ht_image"/>
+      <hotspot id="Point09" url="images/IMG_9920.jpg" title="Rusted Refrigerator" target="" pan="-351.34" tilt="-3" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingpitch="0" tile2url="images/IMG_8068_69_70_Realistic Panorama_o_2.jpg" tile0url="images/IMG_8068_69_70_Realistic Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8068_69_70_Realistic Panorama_o_1.jpg" tile4url="images/IMG_8068_69_70_Realistic Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_8068_69_70_Realistic Panorama_o_3.jpg" tile5url="images/IMG_8068_69_70_Realistic Panorama_o_5.jpg" tilevrurl="images/IMG_8068_69_70_Realistic Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-82.76" projection="4" tilt="22.89"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 1" datetime="3/26/22 11:35 AM" heading="0" title="" copyright="Derek Balkman" nodeid="node13" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node12}" title="Home" target="" pan="-261.75" tilt="1.61" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node14}" title="Capitol Gorge Trail 2 (Next)" target="" pan="-82.19" tilt="1.33" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/35035508075_a0a9c9bc51_o.jpeg" title="Part of trail" target="" pan="-71.86" tilt="3.49" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingpitch="0" tile2url="images/IMG_8086_7_8_Realistic Panorama 2_o_2.jpg" tile0url="images/IMG_8086_7_8_Realistic Panorama 2_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8086_7_8_Realistic Panorama 2_o_1.jpg" tile4url="images/IMG_8086_7_8_Realistic Panorama 2_o_4.jpg" tilesize="2048" tile3url="images/IMG_8086_7_8_Realistic Panorama 2_o_3.jpg" tile5url="images/IMG_8086_7_8_Realistic Panorama 2_o_5.jpg" tilevrurl="images/IMG_8086_7_8_Realistic Panorama 2_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-147.39" projection="4" tilt="14.12"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 2" datetime="3/26/22 11:55 AM" heading="0" title="" copyright="Derek Balkman" nodeid="node14" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node13}" title="Capitol Gorge Trail 1 (Previous)" target="" pan="-318.52" tilt="3.59" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node15}" title="The Tanks Trail 1 (Next)" target="" pan="-136.19" tilt="3.33" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/Screen Shot 2022-03-12 at 8.33.31 PM.png" title="Tanks Trailhead Sign Image" target="" pan="-130.48" tilt="4.23" description="" skinid="ht_image"/>
+      <hotspot id="Point04" url="images/IMG_0202-HDR.jpg" title="Sunset at the Trailhead" target="" pan="-163.73" tilt="2.23" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingpitch="0" tile2url="images/IMG_8104_5_6_Realistic Panorama_o_2.jpg" tile0url="images/IMG_8104_5_6_Realistic Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8104_5_6_Realistic Panorama_o_1.jpg" tile4url="images/IMG_8104_5_6_Realistic Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_8104_5_6_Realistic Panorama_o_3.jpg" tile5url="images/IMG_8104_5_6_Realistic Panorama_o_5.jpg" tilevrurl="images/IMG_8104_5_6_Realistic Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-6" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 3" datetime="3/26/22 12:06 PM" heading="0" title="" copyright="Derek Balkman" nodeid="node15" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node20}" title="Tanks Trail 2 (Next)" target="" pan="-21.52" tilt="-19.5" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node14}" title="Capitol Gorge Trail 2 (Previous)" target="" pan="-237.85" tilt="-10.95" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/IMG_9974.jpg" title="Canyon Image 1" target="" pan="-346.27" tilt="-22.67" description="" skinid="ht_image"/>
+      <hotspot id="Point05" url="images/69619555_45e8fb84e8_o.jpeg" title="Overlook of Trail Image" target="" pan="-341.2" tilt="-23.94" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingpitch="0" tile2url="images/IMG_8122_3_4_Realistic Panorama_o_2.jpg" tile0url="images/IMG_8122_3_4_Realistic Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8122_3_4_Realistic Panorama_o_1.jpg" tile4url="images/IMG_8122_3_4_Realistic Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_8122_3_4_Realistic Panorama_o_3.jpg" tile5url="images/IMG_8122_3_4_Realistic Panorama_o_5.jpg" tilevrurl="images/IMG_8122_3_4_Realistic Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="19.26" projection="4" tilt="-17.09"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 4" datetime="3/26/22 12:11 PM" heading="0" title="" copyright="Derek Balkman" nodeid="node20" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node21}" title="Tanks Trail 3 (Next)" target="" pan="-55.29" tilt="-4.1" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node15}" title="Tanks Trail 1 (Previous)" target="" pan="-223.05" tilt="1.71" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/IMG_9976.jpg" title="Picture of location" target="" pan="-250.74" tilt="-20.11" description="" skinid="ht_image"/>
+      <hotspot id="Point04" url="images/IMG_9972.jpg" title="Canyon Image 2" target="" pan="-348.4" tilt="-5.27" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingpitch="0" tile2url="images/IMG_8143_4_5_Realistic Panorama_o_2.jpg" tile0url="images/IMG_8143_4_5_Realistic Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8143_4_5_Realistic Panorama_o_1.jpg" tile4url="images/IMG_8143_4_5_Realistic Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_8143_4_5_Realistic Panorama_o_3.jpg" tile5url="images/IMG_8143_4_5_Realistic Panorama_o_5.jpg" tilevrurl="images/IMG_8143_4_5_Realistic Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="67" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 5" datetime="3/26/22 12:20 PM" heading="0" title="" copyright="Derek Balkman" nodeid="node21" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node20}" title="Tanks Trail 2 (Previous)" target="" pan="-268.32" tilt="-16.15" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node12}" title="Home" target="" pan="-256.84" tilt="-14.19" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/IMG_9980.jpg" title="Image 3" target="" pan="-314.58" tilt="-16.17" description="" skinid="ht_image"/>
+      <hotspot id="Point04" url="images/A274C8E6-1DD8-B71B-0BDB34C099E50810Original.jpeg" title="Image 1" target="" pan="-296.19" tilt="-12.86" description="" skinid="ht_image"/>
+      <hotspot id="Point05" url="images/Home page3.jpeg" title="Image 2" target="" pan="-304.26" tilt="-13.53" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingpitch="0" tile2url="images/Hickmans Bridge Trail Location Panorama_o_2.jpg" tile0url="images/Hickmans Bridge Trail Location Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/Hickmans Bridge Trail Location Panorama_o_1.jpg" tile4url="images/Hickmans Bridge Trail Location Panorama_o_4.jpg" tilesize="2048" tile3url="images/Hickmans Bridge Trail Location Panorama_o_3.jpg" tile5url="images/Hickmans Bridge Trail Location Panorama_o_5.jpg" tilevrurl="images/Hickmans Bridge Trail Location Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-130" projection="4" tilt="3.61"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 4 - trail" datetime="2/19/22 10:55 AM" heading="0" title="Hickman Bridge Trail" copyright="Derek Balkman" nodeid="node17" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node12}" title="Home" target="" pan="-236.23" tilt="-3.77" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node19}" title="Hickman Bridge 1 (Next)" target="" pan="-90.3" tilt="-5.95" description="" skinid="ht_node"/>
+      <hotspot id="Point04" url="images/49460336381_f8bc47fe8b_o.jpeg" title="View from Trail" target="" pan="-139.87" tilt="-0.62" description="" skinid="ht_image"/>
+      <hotspot id="Point05" url="images/IMG_8453.jpg" title="Trail Sunset" target="" pan="-255.21" tilt="0" description="" skinid="ht_image"/>
+      <hotspot id="Point07" url="images/IMG_9828.jpg" title="Small Tunnels" target="" pan="-42.36" tilt="6.31" description="" skinid="ht_image"/>
+      <hotspot id="Point08" url="images/IMG_9829.jpg" title="Small Arch" target="" pan="-47.15" tilt="3.76" description="" skinid="ht_image"/>
+      <hotspot id="Point09" url="images/5c7f4f5f-3bea-4fcd-9f51-1c723f36f0f0Original.jpeg" title="Trail Sunset" target="" pan="-264.03" tilt="0" description="" skinid="ht_image"/>
+      <hotspot id="Point06" url="images/IMG_8449.jpg" title="Start of Trail" target="" pan="-259.43" tilt="0" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingpitch="0" tile2url="images/Hickmans_Bridge_Location_3_o_2.jpg" tile0url="images/Hickmans_Bridge_Location_3_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/Hickmans_Bridge_Location_3_o_1.jpg" tile4url="images/Hickmans_Bridge_Location_3_o_4.jpg" tilesize="2048" tile3url="images/Hickmans_Bridge_Location_3_o_3.jpg" tile5url="images/Hickmans_Bridge_Location_3_o_5.jpg" tilevrurl="images/Hickmans_Bridge_Location_3_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="46.13" projection="4" tilt="21.57"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 3" datetime="2/19/22 10:20 AM" heading="0" title="Hickman Bridge Location 1" copyright="Derek Balkman" nodeid="node19" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node18}" title="Hickman Bridge 2 (Next)" target="" pan="-317.7" tilt="1.44" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node17}" title="Hickman Bridge Trail (Previous)" target="" pan="-162.04" tilt="-4.58" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/IMG_9778.jpg" title="View" target="" pan="-308.27" tilt="10.26" description="" skinid="ht_image"/>
+      <hotspot id="Point04" url="images/Hickman flip.jpg" title="Flip" target="" pan="-284.85" tilt="-3.93" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingpitch="0" tile2url="images/Hickmans Bridge Location 2 Panorama_o_2.jpg" tile0url="images/Hickmans Bridge Location 2 Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/Hickmans Bridge Location 2 Panorama_o_1.jpg" tile4url="images/Hickmans Bridge Location 2 Panorama_o_4.jpg" tilesize="2048" tile3url="images/Hickmans Bridge Location 2 Panorama_o_3.jpg" tile5url="images/Hickmans Bridge Location 2 Panorama_o_5.jpg" tilevrurl="images/Hickmans Bridge Location 2 Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-16.59" projection="4" tilt="40.51"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 2" datetime="2/19/22 10:13 AM" heading="0" title="Hickman Bridge Location 2" copyright="Derek Balkman" nodeid="node18" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node16}" title="Hickman Bridge 3 (Next)" target="" pan="-11.26" tilt="24.52" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node19}" title="Hickman Bridge 1 (Previous)" target="" pan="-237.62" tilt="-10.73" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/Night Hickman.jpg" title="Hickman Bridge Night Sky Image" target="" pan="-327.94" tilt="31.07" description="" skinid="ht_image"/>
+      <hotspot id="Point04" url="images/Hickmannight.jpg" title="Night Sky" target="" pan="-55.11" tilt="21.85" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingpitch="0" tile2url="images/Hickman Bridge location 1 Panorama_o_2.jpg" tile0url="images/Hickman Bridge location 1 Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/Hickman Bridge location 1 Panorama_o_1.jpg" tile4url="images/Hickman Bridge location 1 Panorama_o_4.jpg" tilesize="2048" tile3url="images/Hickman Bridge location 1 Panorama_o_3.jpg" tile5url="images/Hickman Bridge location 1 Panorama_o_5.jpg" tilevrurl="images/Hickman Bridge location 1 Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="50.98" projection="4" tilt="11.67"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Location 1" datetime="2/19/22 9:56 AM" heading="0" title="Hickman Bridge Location 3" copyright="Derek Balkman" nodeid="node16" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node18}" title="Hickman Bridge 2 (Previous)" target="" pan="-291.95" tilt="-21.27" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node12}" title="Home" target="" pan="-339.76" tilt="-8.35" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/IMG_9766.jpg" title="Arch View" target="" pan="-320.38" tilt="-26.49" description="" skinid="ht_image"/>
+      <hotspot id="Point04" url="images/Art.jpg" title="Arch" target="" pan="-325.6" tilt="-26.04" description="" skinid="ht_image"/>
+      <hotspot id="Point05" url="images/hickmannight4.jpg" title="Night Sky" target="" pan="-262.96" tilt="-1.91" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingpitch="0" tile2url="images/IMG_7389_90_91_Balanced Panorama_o_2.jpg" tile0url="images/IMG_7389_90_91_Balanced Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_7389_90_91_Balanced Panorama_o_1.jpg" tile4url="images/IMG_7389_90_91_Balanced Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_7389_90_91_Balanced Panorama_o_3.jpg" tile5url="images/IMG_7389_90_91_Balanced Panorama_o_5.jpg" tilevrurl="images/IMG_7389_90_91_Balanced Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-47.92" projection="4" tilt="15.35"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="CP_Grandwash_1" datetime="" heading="0" title="Grand Wash Trail" copyright="Derek Balkman" nodeid="node22" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node23}" title="Grandwash Trail 2 (Next)" target="" pan="-50.82" tilt="0" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="{node12}" title="Home" target="" pan="-250.94" tilt="2.77" description="" skinid="ht_node"/>
+      <hotspot id="Point04" url="images/Grand2.jpg" title="Image 2" target="" pan="-70.2" tilt="-5.92" description="" skinid="ht_image"/>
+      <hotspot id="Point05" url="images/Grand1.jpg" title="Stone Art" target="" pan="-63.23" tilt="0" description="" skinid="ht_image"/>
+      <hotspot id="Point02" url="images/Nat Parks-6.jpg" title="Image 1" target="" pan="-22.45" tilt="0" description="" skinid="ht_image"/>
+      <hotspot id="Point06" url="images/Screen Shot 2022-03-12 at 8.29.44 PM.png" title="Sign for Cassidy Arch" target="" pan="-38.05" tilt="0" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelingpitch="0" tile2url="images/Narrows_360_o_2.jpg" tile0url="images/Narrows_360_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/Narrows_360_o_1.jpg" tile4url="images/Narrows_360_o_4.jpg" tilesize="2048" tile3url="images/Narrows_360_o_3.jpg" tile5url="images/Narrows_360_o_5.jpg" tilevrurl="images/Narrows_360_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="164.78" projection="4" tilt="13.51"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="CP_Grandwash_2" datetime="10/15/21 3:24 PM" heading="0" title="Grand Wash Trail Location 2" copyright="Derek Balkman" nodeid="node23" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node24}" title="Grandwash Trail 3 (Next)" target="" pan="-188.08" tilt="4.4" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node22}" title="Grandwash Trail 1 (Previous)" target="" pan="-107.09" tilt="-1.12" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/IMG_8099.jpg" title="Image 2" target="" pan="-250.5" tilt="0.36" description="" skinid="ht_image"/>
+      <hotspot id="Point04" url="images/0a92295e-bdf1-4001-89f6-66573616f3baOriginal.jpeg" title="Image 1" target="" pan="-170.82" tilt="4.3" description="" skinid="ht_image"/>
+      <hotspot id="Point05" url="images/Grand4.jpg" title="Image 3" target="" pan="-233.75" tilt="1.27" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingpitch="0" tile2url="images/CR Grandwash End Panorama_o_2.jpg" tile0url="images/CR Grandwash End Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/CR Grandwash End Panorama_o_1.jpg" tile4url="images/CR Grandwash End Panorama_o_4.jpg" tilesize="2048" tile3url="images/CR Grandwash End Panorama_o_3.jpg" tile5url="images/CR Grandwash End Panorama_o_5.jpg" tilevrurl="images/CR Grandwash End Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-18.52" projection="4" tilt="18.34"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="New_grandwash_location" datetime="2/19/22 11:57 AM" heading="0" title="Grand Wash Trail Location 3" copyright="Derek Balkman" nodeid="node24" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node23}" title="Grandwash Trail 2 (Previous)" target="" pan="-194.37" tilt="0.68" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node12}" title="Home" target="" pan="-25.88" tilt="0.86" description="" skinid="ht_node"/>
+      <hotspot id="Point03" url="images/grand8.jpg" title="Rock Face" target="" pan="-41.54" tilt="1.22" description="" skinid="ht_image"/>
+      <hotspot id="Point04" url="images/Grand.jpg" title="Water pockets" target="" pan="-53.29" tilt="9.23" description="" skinid="ht_image"/>
+      <hotspot id="Point05" url="images/Screen Shot 2022-03-12 at 8.17.58 PM.png" title="Image 1" target="" pan="-336.7" tilt="0" description="" skinid="ht_image"/>
+      <hotspot id="Point06" url="images/IMG_8109.jpg" title="Image 2" target="" pan="-293.19" tilt="-1.46" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelingpitch="0" tile2url="images/IMG_8798_799_800_Realistic Panorama_o_2.jpg" tile0url="images/IMG_8798_799_800_Realistic Panorama_o_0.jpg" tilescale="1.004883" levelingroll="0" tile1url="images/IMG_8798_799_800_Realistic Panorama_o_1.jpg" tile4url="images/IMG_8798_799_800_Realistic Panorama_o_4.jpg" tilesize="2048" tile3url="images/IMG_8798_799_800_Realistic Panorama_o_3.jpg" tile5url="images/IMG_8798_799_800_Realistic Panorama_o_5.jpg" tilevrurl="images/IMG_8798_799_800_Realistic Panorama_ovr.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata tags="Giffard house Location" datetime="4/30/22 5:10 PM" heading="0" title="Giffard House" copyright="Derek Balkman" nodeid="node25" comment="" latitude="" altitude="-3048.00" author="Derek Balkman" info="" description="" customnodeid="" source="" longitude=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" background="1" width="180" border="1" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" enabled="1" textalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot id="Point01" url="{node12}" title="Home" target="" pan="-252.43" tilt="-4.8" description="" skinid="ht_node"/>
+      <hotspot id="Point02" url="images/Wagon.jpg" title="Wagon" target="" pan="-279.5" tilt="-2.25" description="" skinid="ht_image"/>
+      <hotspot id="Point13" url="images/Capitolsign.jpg" title="Entrance Sign Day" target="" pan="-39.09" tilt="0" description="" skinid="ht_image"/>
+      <hotspot id="Point12" url="images/Entrance Capitol Reef.jpg" title="Entrance Night Sky" target="" pan="-45.8" tilt="0" description="" skinid="ht_image"/>
+      <hotspot id="Point15" url="images/CapitolReefSign.jpg" title="Capitol Reef Night Sky" target="" pan="-52.21" tilt="0" description="" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomfov="20" zoomspeed="2" zoomafterinfov="90" enabled="1" type="crossdissolve" zoomin="0" zoomafteroutfov="20" zoomout="0" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedwheel="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" contextvr="1" contextprojections="0" lockedkeyboard="0" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" datetime="" heading="0" title="" copyright="" nodeid="master" comment="" latitude="" author="" info="" description="" customnodeid="" source="" longitude=""/>
+  </masternode>
+</tour>
